@@ -1,2 +1,16 @@
 .idea
 node_modules
+.history
+**/node_modules
+**/lerna-debug.log
+**/build
+.vscode
+.next
+**/package-lock.json
+**/yarn.lock
+**/lib
+**/pkg
+**/coverage
+packages/**/lib
+packages/**/yarn.lock
+packages/**/build 
